@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ecae46a4-581e-4a0b-8f02-a82a601b86e0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SpiralExam" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Yplj8sBAC53lkNV8cbs0SvFFWu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.spiral.exam" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ChatClient">
+    <configuration name="ChatClient" type="Application" factoryName="Application" singleton="false">
+      <option name="ALTERNATIVE_JRE_PATH" value="D:\Program Files\Java\jdk1.8.0_131\jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.spiral.exam.ClientApp" />
+      <module name="ChatClient" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChatServer" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="D:\Program Files\Java\jdk1.8.0_131\jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.spiral.exam.ServerApp" />
+      <module name="ChatServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChatClients" type="CompoundRunConfigurationType">
+      <toRun name="ChatClient 2" type="Application" />
+      <toRun name="ChatClient 1" type="Application" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="CompoundRunConfigurationType">
+      <toRun name="ChatClient 2" type="Application" />
+      <toRun name="ChatClient 1" type="Application" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.ChatClient" />
+      <item itemvalue="Application.ChatServer" />
+      <item itemvalue="Compound.ChatClients" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ecae46a4-581e-4a0b-8f02-a82a601b86e0" name="Default Changelist" comment="" />
+      <created>1583647548732</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583647548732</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="234" y="160" key="#Project_Structure" timestamp="1583773818656">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="234" y="160" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1583773818656" />
+    <state x="224" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583773697275">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="224" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1583773697275" />
+    <state x="436" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1583891953792">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="436" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1583891953792" />
+    <state x="499" y="311" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1583649085256">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="499" y="311" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1583649085256" />
+    <state x="458" y="452" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1583647952593">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="458" y="452" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1583647952593" />
+    <state x="566" y="407" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1583647965694">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="566" y="407" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1080@0.0.1920.1080" timestamp="1583647965694" />
+    <state width="1581" height="323" key="GridCell.Tab.0.bottom" timestamp="1583953204403">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1581" height="323" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1583953204403" />
+    <state width="1581" height="323" key="GridCell.Tab.0.center" timestamp="1583953204403">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1581" height="323" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1583953204403" />
+    <state width="1581" height="323" key="GridCell.Tab.0.left" timestamp="1583953204403">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1581" height="323" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1583953204403" />
+    <state width="1581" height="323" key="GridCell.Tab.0.right" timestamp="1583953204403">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1581" height="323" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1583953204403" />
+    <state width="1061" height="247" key="GridCell.Tab.1.bottom" timestamp="1583672441040">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1061" height="247" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1583672441040" />
+    <state width="1061" height="247" key="GridCell.Tab.1.center" timestamp="1583672441040">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1061" height="247" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1583672441040" />
+    <state width="1061" height="247" key="GridCell.Tab.1.left" timestamp="1583672441040">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1061" height="247" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1583672441040" />
+    <state width="1061" height="247" key="GridCell.Tab.1.right" timestamp="1583672441040">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1061" height="247" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1583672441040" />
+    <state x="57" y="162" key="SettingsEditor" timestamp="1583952487983">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="57" y="162" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1583952487983" />
+    <state x="596" y="398" key="com.intellij.ide.util.TipDialog" timestamp="1583951650028">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="596" y="398" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1583951650028" />
+    <state x="567" y="112" width="607" height="804" key="find.popup" timestamp="1583939552387">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="567" y="112" width="607" height="804" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1583939552387" />
+    <state x="153" y="222" key="new project wizard" timestamp="1583647768000">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="153" y="222" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1583647768000" />
+    <state x="319" y="233" key="run.anything.popup" timestamp="1583899071064">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="319" y="233" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1583899071064" />
+    <state x="493" y="247" width="672" height="678" key="search.everywhere.popup" timestamp="1583938737390">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="493" y="247" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1583938737390" />
+  </component>
+</project>
